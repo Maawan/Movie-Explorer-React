@@ -6,7 +6,7 @@ function Footer() {
     <div>
       <div className="footer">
         <p className="footer__text">
-          © 2023 Insignia Consultancy Servies.
+          © 2023 Developed by Mohd Mawan Ahmad.
           <br />
           All rights reserved.
         </p>
